@@ -1,5 +1,5 @@
 # go-serf - занятия сёрфингом...
-- Интерактивный лендинг [посмотрите здесь](https://evgeniymurygin.github.io/go-serf/).
+- Интерактивный landing page [посмотрите здесь](https://evgeniymurygin.github.io/go-serf/).
 - Используется:
 - слайдер,
 - анимация,
